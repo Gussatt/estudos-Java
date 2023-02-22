@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Shrek
+ *
+ */
+module byteBank {
+}
