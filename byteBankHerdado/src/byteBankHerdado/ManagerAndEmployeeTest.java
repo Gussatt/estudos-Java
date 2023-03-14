@@ -3,7 +3,7 @@ package byteBankHerdado;
 public class ManagerAndEmployeeTest {
 	
 	public static void main(String[] args) {
-		Employee nico = new Employee();
+		Employee nico = new VideoEditor();
 		Manager carlos = new Manager();
 		
 		nico.setSalary(2000.00);

@@ -11,7 +11,7 @@ public class ReferencesTest {
 		Manager Gustavo = new Manager();
 		Gustavo.setSalary(2000.00);
 		
-		Employee Guilherme = new Employee();
+		Manager Guilherme = new Manager();
 		Guilherme.setSalary(2000.00);
 		
 		BonusControl.register(Anderson);

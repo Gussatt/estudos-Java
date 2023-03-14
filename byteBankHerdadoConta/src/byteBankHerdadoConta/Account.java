@@ -1,5 +1,5 @@
 package byteBankHerdadoConta;
-public class Account {
+public abstract class Account {
 	private double balance;
 	private int agency;
 	private int number;
