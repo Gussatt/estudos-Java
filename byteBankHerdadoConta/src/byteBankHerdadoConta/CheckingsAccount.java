@@ -1,5 +1,7 @@
 package byteBankHerdadoConta;
 
+import Account;
+
 public class CheckingsAccount extends Account {
 	
 	public CheckingsAccount(int number, int agency) {
