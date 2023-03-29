@@ -1,7 +1,5 @@
 package byteBankHerdadoConta;
 
-import Account;
-
 public class CheckingsAccount extends Account {
 	
 	public CheckingsAccount(int number, int agency) {
@@ -9,8 +7,8 @@ public class CheckingsAccount extends Account {
 	}
 	
 	@Override
-	public boolean withdraw(double value) {
+	public void withdraw(double value) {
 		double toBeWithdrawn = value + 0.2;
-		return super.withdraw(toBeWithdrawn);
+		super.withdraw(toBeWithdrawn);
 	}
 }
