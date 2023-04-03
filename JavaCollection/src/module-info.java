@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author shrek
+ *
+ */
+module JavaCollection {
+}
